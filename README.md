@@ -1,13 +1,8 @@
 # ddos-lovetun
 
-git clone https://github.com/ViDucHung206/LoveTool 
-cd LoveTool 
-sh setup.sh 
-python abc.py
 
 
-
-
+3 chức năng
 
 
 
@@ -15,3 +10,14 @@ python abc.py
 # Get Flood
 # Bypass 
 # socket
+
+
+
+# cách dử dụng
+git clone https://github.com/ViDucHung206/LoveTool 
+# tải về
+cd LoveTool 
+# setup tool
+sh setup.sh 
+# vô tool
+python abc.py
